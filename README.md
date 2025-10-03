@@ -17,3 +17,4 @@ FEATURES:
 
 #Screenshots
 ![image alt](https://github.com/snehashalgar29/Face-Recognition-Based-Attendance-Monitoring-System/blob/main/2025-01-21%20(3).png?raw=true)
+![image alt](https://github.com/snehashalgar29/Face-Recognition-Based-Attendance-Monitoring-System/blob/main/2025-01-21%20(5).png?raw=true)
